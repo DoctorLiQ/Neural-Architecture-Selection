@@ -13,5 +13,9 @@ This paper is kind of stats paper that adopts CV (cross-validation) as well as s
 Though called NA optimzer, it is kind of search.
 ```
 
+### Bayesian Optimization
+[Fast and Reliable Architecture Selection for
+Convolutional Neural Networks](https://arxiv.org/pdf/1905.01924.pdf)
+
 ## Links
 [blog](https://heartbeat.fritz.ai/selecting-the-best-architecture-for-artificial-neural-networks-7b051f775b4)
