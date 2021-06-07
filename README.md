@@ -1,4 +1,5 @@
 # Neural-Architecture-Selection
+## Papers
 To gather some awesome neural architecture seleciton papers (history).
 ### Very old
 [Prediction Risk and Architecture Selection
@@ -11,3 +12,6 @@ This paper is kind of stats paper that adopts CV (cross-validation) as well as s
 ```
 Though called NA optimzer, it is kind of search.
 ```
+
+## Links
+[blog](https://heartbeat.fritz.ai/selecting-the-best-architecture-for-artificial-neural-networks-7b051f775b4)
